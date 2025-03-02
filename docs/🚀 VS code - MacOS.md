@@ -111,28 +111,28 @@ source venv/bin/activate
 Если ты правильно склонировал репозиторий, то у тебя есть файл `requirements.txt`, установи все нужные пакеты командой:
 
 ```sh
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ---
 
-## 6️⃣ Запуск `main.py`
+## 6️⃣ Запуск `IamReadyToBootcamp.py`
 
 Запусти свой скрипт одной из команд:
 
 ```sh
-python main.py
+python IamReadyToBootcamp.py
 ```
 
 или
 
 ```sh
-python3 main.py
+python3 IamReadyToBootcamp.py
 ```
 
 или через VS Code:
 
-- Открыть `main.py`.
+- Открыть `IamReadyToBootcamp.py`.
 - Нажать `F5` или `Run` → `Run Without Debugging`.
 
 ![run_vscode](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/run_vscode.png)
@@ -151,7 +151,7 @@ python3 main.py
 |Ошибка|Как решить|
 |---|---|
 |версия Python должна быть минимум 3.12|Установи нужную версию с [сайта](https://www.python.org/downloads/release/python-3120/)|
-|Пропущенные библиотеки: <название>|Команда`pip install <название>` или`pip install -r requirements.txt`|
-|Библиотеки с ошибкой в версии: <название>|Команда`pip install <название>==<версия>`|
+|Пропущенные библиотеки: <название>|Команда`pip3 install <название>` или`pip3 install -r requirements.txt`|
+|Библиотеки с ошибкой в версии: <название>|Команда`pip3 install <название>==<версия>`|
 
 Если у тебя другая ошибка, обратись в чат!

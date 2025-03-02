@@ -103,26 +103,26 @@ venv\Scripts\activate
 Если ты правильно склонировал репозиторий, то у тебя есть файл `requirements.txt`, установи все нужные пакеты командой:
 
 ```sh
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ---
 
-## 7️⃣ Запуск `main.py`
+## 7️⃣ Запуск `IamReadyToBootcamp.py`
 
 Теперь запусти свой скрипт:
 
 ```sh
-python main.py
+python IamReadyToBootcamp.py
 ```
 
 или
 
 ```shell
-python3 main.py
+python3 IamReadyToBootcamp.py
 ```
 
-или через PyCharm (**ПКМ по файлу `main.py` → Run `main`**)
+или через PyCharm (**ПКМ по файлу `IamReadyToBootcamp.py` → Run `IamReadyToBootcamp`**)
 
 
 ![run](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/run.png)
