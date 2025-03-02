@@ -108,7 +108,8 @@ code
 3. Найди **Python** от Microsoft.
 4. Нажми "Install".
 
-![[Pasted image 20250302130942.png]]
+![extensions](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/extansions.png)
+
 
 ---
 
@@ -130,7 +131,7 @@ source venv/bin/activate
 
 5. Убедись, что в начале строки появился `(venv)`.
 
-![[Pasted image 20250302131555.png]]
+![venv_vscode](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/venv_vscode.png)
 
 ---
 
@@ -152,6 +153,8 @@ python3 main.py
 
 - Открыть `main.py`.
 - Нажать `F5` или `Run` → `Run Without Debugging`.
+
+![run_vscode](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/run_vscode.png)
 
 Если программа **НЕ** вывела
 
