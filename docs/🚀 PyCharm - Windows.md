@@ -4,7 +4,10 @@
 1. Перейди на [официальный сайт Python](https://www.python.org/downloads/).
 2. Скачай Python версии 3.12 для своей операционной системы.
 3. Запусти установщик и **обязательно** поставь галочку ✅ "Add Python to PATH".
-![[Pasted image 20250302130738.png]]
+
+![add_path](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/add_to_path.png)
+
+
 4. Дождись завершения установки.
 5. (может потребоваться перезапустить компьютер)
 
@@ -66,9 +69,16 @@ cd cu-butcamp-2025
 1. Открой PyCharm и создай новый проект (или используй уже клонированный).
 2. Перейди в **File** → **Settings** → **Project: cu-butcamp-2025>** → **Python Interpreter**.
 3. Нажми **Add Interpreter** → **Add Local Interpreter**.
-![[Pasted image 20250225170204.png]]
+
+
+![settings](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/settings.png)
+
+
 4. Выбери **venv**, а в поле "Base Interpreter" укажи путь до Python (обычно определяется автоматически).
-![[Pasted image 20250225170321.png]]
+
+![settings](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/create_venv.png)
+
+
 5. Нажми "OK", "apply" и дождись завершения настройки.
 
 ---
@@ -76,7 +86,10 @@ cd cu-butcamp-2025
 ## 5️⃣ Запуск виртуального окружения
 
 Открой терминал в PyCharm
-![[Pasted image 20250225170548.png]]
+
+![venv](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/venv.png)
+
+
 Если у тебя нет `(venv)` в начале, пропиши  
 
 ```sh
@@ -111,7 +124,10 @@ python3 main.py
 
 или через PyCharm (**ПКМ по файлу `main.py` → Run `main`**)
 
-![[Pasted image 20250225171035.png]]
+
+![run](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/run.png)
+
+
 
 Если программа **НЕ** вывела
 
