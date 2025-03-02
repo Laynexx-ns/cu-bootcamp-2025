@@ -150,6 +150,9 @@ python3 main.py
 
 или через PyCharm (**ПКМ по файлу `main.py` → Run `main`**).
 
+![run](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/run.png)
+
+
 Если программа **НЕ** вывела
 
 `[status: OK] УРА! Все работает, ждем тебя на буткемпе!`
