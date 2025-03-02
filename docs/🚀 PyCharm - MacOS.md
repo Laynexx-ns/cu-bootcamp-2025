@@ -12,8 +12,6 @@ python3 --version
 
 Если видишь `Python 3.12.x` – всё ок! 🎉
 
-_Рекомендация: можно добавить скриншот загрузки и установки Python._
-
 ---
 
 ## 2️⃣ Установка Git и клонирование репозитория
@@ -64,10 +62,16 @@ cd cu-butcamp-2025
 1. Открой PyCharm и выбери проект.
 2. Перейди в **PyCharm** → **Settings** → **Project: cu-butcamp-2025** → **Python Interpreter**.
 3. Нажми **Add Interpreter** → **Add Local Interpreter**.
-![[Pasted image 20250225170204.png]]
-4. Выбери **venv** и укажи путь до установленного Python (обычно определяется автоматически).
-![[Pasted image 20250225170321.png]]
-5. Нажми **OK** и дождись завершения настройки. 
+
+![settings](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/settings.png)
+
+
+5. Выбери **venv** и укажи путь до установленного Python (обычно определяется автоматически).
+
+![settings](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/create_venv.png)
+
+
+6. Нажми **OK** и дождись завершения настройки. 
 
 ---
 
@@ -82,7 +86,7 @@ source venv/bin/activate
 
 3. Убедись, что в начале строки появился `(venv)`.
 
-![[Pasted image 20250225170548.png]]
+![venv](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/venv.png)
 
 ---
 
@@ -112,7 +116,9 @@ python3 main.py
 
 или через PyCharm (**ПКМ по файлу `main.py` → Run `main`**)
 
-![[Pasted image 20250225171035.png]]
+
+![run](https://github.com/pavelglazunov/cu-bootcamp-2025/blob/main/docs/static/run.png)
+
 
 Если программа **НЕ** вывела
 
