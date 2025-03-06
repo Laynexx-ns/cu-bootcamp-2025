@@ -64,7 +64,7 @@ cd cu-butcamp-2025
 
 ---
 
-## 4️⃣ Создание интерпретатора в PyCharm
+## 4️⃣ Добавление интерпретатора в PyCharm
 
 1. Открой PyCharm и создай новый проект (или используй уже клонированный).
 2. Перейди в **File** → **Settings** → **Project: cu-butcamp-2025>** → **Python Interpreter**.
